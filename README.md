@@ -1,4 +1,7 @@
-# Abmael
+# Abmael Almeida
+[![Linkedin Badge](https://img.shields.io/badge/-Abmael%20Almeida-05122A?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/abmael-almeida-685652231/)](https://www.linkedin.com/in/abmael-almeida-685652231/) 
+[![Gmail Badge](https://img.shields.io/badge/-abmael.cont@gmail.com-05122A?style=flat&logo=Gmail&link=mailto:abmael.cont@gmail.com)](mailto:abmael.cont@gmail.com)
+
 
 Freelancer. Self taught front-end developer.
 
