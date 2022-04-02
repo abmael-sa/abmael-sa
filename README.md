@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-abmael.cont@gmail.com-05122A?style=flat&logo=Gmail&link=mailto:abmael.cont@gmail.com)](mailto:abmael.cont@gmail.com)
 
 
-Freelancer. Self taught front-end developer.
+Freelancer. Front-end developer.
 
 I'm looking for my first opportunity in the tech industry.
 
